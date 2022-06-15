@@ -10,7 +10,7 @@ sections:
         title: CCW2022
         subtitle: CCW2022 Sub page
         background: /images/CCW2022_Main_Back.png
-        button: Contact Us
+        button: Contact PTC
         url: /contact-us/
         key_highlights:
             - title: Highlight A
