@@ -3,9 +3,9 @@ links:
   - title: WHO WE ARE
     url: /permalink/who-we-are
   - title: COMMUNITY
-    url: /permalink
+    url: /permalink/community
   - title: IN THE SPOTLIGHT
-    url: /permalink
+    url: /permalink/in-the-spotlight
   - title: RESOURCES
     url: /permalink/ccvideo
     sublinks:
@@ -14,9 +14,9 @@ links:
       - title: VIDEO
         url: /permalink
   - title: AWARDS
-    url: /permalink
+    url: /permalink/awards
   - title: CHAMPIONS
-    url: /permalink
+    url: /permalink/champions
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
