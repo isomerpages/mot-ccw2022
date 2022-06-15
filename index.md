@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: CCW2022
+        subtitle: CCW2022 Sub page
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
