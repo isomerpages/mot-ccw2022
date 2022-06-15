@@ -7,12 +7,12 @@ links:
   - title: IN THE SPOTLIGHT
     url: /permalink/in-the-spotlight
   - title: RESOURCES
-    url: /permalink/ccvideo
+    url: /permalink
     sublinks:
       - title: WHAT'S HAPPENING
         url: /permalink
       - title: VIDEO
-        url: /permalink
+        url: /permalink/ccvideo
   - title: AWARDS
     url: /permalink/awards
   - title: CHAMPIONS
