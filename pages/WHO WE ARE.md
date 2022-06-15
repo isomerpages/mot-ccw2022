@@ -17,7 +17,7 @@ The Caring SG Commuters Committee comprises key industry players as well as the 
 *   Ministry of Transport
 *   Land Transport Authority
 *   National Transport Workers’ Union
-*   Public Transport Council
+* Public Transport Council
 *   SG Enable 
 *   Go Ahead Singapore
 *   SBS Transit
@@ -26,5 +26,4 @@ The Caring SG Commuters Committee comprises key industry players as well as the 
 
 With the aim of fostering pleasant, inclusive and caring experiences on Singapore's public transport, Caring SG Commuters is an initiative meant for all. The hope is that together -- committee, community and commuters will strive to create a culture of care in the shared environment of our public transport.
 
-Follow us on [Instagram](http://instagram.com/caringsgcommuters)
-
+# Follow us on [Instagram](http://instagram.com/caringsgcommuters)
