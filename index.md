@@ -9,7 +9,7 @@ sections:
     - hero:
         title: CCW2022
         subtitle: CCW2022 Sub page
-        background: /images/hero-banner.png
+        background: /images/CCW2022_Main_Back.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
