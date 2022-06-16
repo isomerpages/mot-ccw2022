@@ -6,13 +6,8 @@ links:
     url: /permalink/community
   - title: IN THE SPOTLIGHT
     url: /permalink/in-the-spotlight
-  - title: RESOURCES
-    url: /permalink
-    sublinks:
-      - title: WHAT'S HAPPENING
-        url: /permalink
-      - title: VIDEO
-        url: /permalink/ccvideo
+  - title: Resource
+    resource_room: true
   - title: AWARDS
     url: /permalink/awards
   - title: CHAMPIONS
@@ -21,5 +16,3 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Resource1
-    resource_room: true
