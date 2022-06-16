@@ -21,3 +21,5 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: Resource1
+    resource_room: true
